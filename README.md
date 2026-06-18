@@ -132,11 +132,18 @@
 
 ---
 
-## 🏅 GitHub Trophies
+## 🌱 Currently Learning
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShakiraAngelina&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Advanced_SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Looker_Studio-4285F4?style=for-the-badge&logo=googlelens&logoColor=white"/>
+
+<br/><br/>
+
+> *"An investment in knowledge pays the best interest."* — Benjamin Franklin 📚
 
 </div>
 
